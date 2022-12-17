@@ -1,4 +1,4 @@
-<img src="https://user-images.githubusercontent.com/103554466/208209636-13e4b411-b5ca-4124-ba37-416dc1e1a9f8.jpg"></img>
+<img src="https://user-images.githubusercontent.com/103554466/208212245-f051ad5d-cdc9-47b2-a55f-5ef4d0708e99.jpg"></img>
 
 # Frontend Mentor - QR code component solution
 
